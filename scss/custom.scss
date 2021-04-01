@@ -79,8 +79,6 @@ h2 {
 
 
 
-//this media query is added right at the beginning,
-//when we create the navbar. it's for sm and xs.
 @media(max-width: 768px) {
   .navbar {
     background: #1f1f1f;
